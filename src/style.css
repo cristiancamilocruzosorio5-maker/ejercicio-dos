@@ -35,3 +35,9 @@ h1, h2, h3 {
   text-transform: uppercase;
   margin-top: 0.5rem;
 }
+.menu-lateral nav ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+}
