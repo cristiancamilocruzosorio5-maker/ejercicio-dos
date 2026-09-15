@@ -23,3 +23,8 @@ h1, h2, h3 {
   justify-content: space-between;
   padding: 3rem 3rem 2.5rem;
 }
+.marca h1 {
+  color: #d4af37;
+  font-size: 2.75rem;
+  letter-spacing: 0.02em;
+}
