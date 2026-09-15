@@ -47,3 +47,10 @@ h1, h2, h3 {
   font-size: 1.15rem;
   font-weight: 500;
 }
+.menu-lateral address {
+  font-style: normal;
+  font-size: 0.9rem;
+  color: #9ca3af;
+  border-top: 1px solid #333333;
+  padding-top: 1.25rem;
+}
