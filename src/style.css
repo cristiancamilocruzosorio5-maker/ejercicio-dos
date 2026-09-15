@@ -41,3 +41,9 @@ h1, h2, h3 {
   flex-direction: column;
   gap: 1.75rem;
 }
+.menu-lateral nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.15rem;
+  font-weight: 500;
+}
